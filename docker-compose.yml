@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : learnerharsh/my-note-app:latest
+     image : learnerharsh/my-note-app2:latest
      ports :
          - "8000:8000"
